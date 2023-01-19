@@ -20,3 +20,5 @@ To run the project
 
 ## How to Use the Project
 * After the command, project is ready to be played
+
+# Thank You
